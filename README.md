@@ -1,2 +1,1 @@
-# Git Practice
-## About Us
+# Git Practice (Version B)
